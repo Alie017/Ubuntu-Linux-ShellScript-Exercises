@@ -1,4 +1,4 @@
-echo "Shell name is $BASH"
+echo "Shell name is $BASH" 
 echo "Shell version is $BASH_VERSION"
 echo "Home directory is $HOME"
 echo "Current working directory is $PWD"
